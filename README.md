@@ -1,4 +1,4 @@
-# Demo
+cd# Demo
 This is my first git.
 <br>
-Aurthor-Raja Akash
+Aurthor-Raja (kumar)
